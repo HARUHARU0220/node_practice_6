@@ -24,7 +24,7 @@ const productSchema = moongoose.Schema(
     },
 
     {
-        timestamps : ture
+        timestamps : true
     }
 
 )
